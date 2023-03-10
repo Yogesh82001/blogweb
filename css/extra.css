@@ -1,0 +1,28 @@
+.secondHalf img{
+    height:13rem;
+    width:20rem;
+    border: 4px;
+    border-radius: 150px;
+    display: flex;
+    margin-top: 2rem;
+
+}
+
+.secondHalf{
+
+}
+.box-main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: hidden;
+}
+.firstHalf{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
